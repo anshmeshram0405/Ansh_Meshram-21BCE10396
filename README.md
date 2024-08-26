@@ -47,5 +47,7 @@ node app.js
 - *Move History*: A detailed move history section tracks all moves made by both players throughout the game, providing a complete log of the match.
 
 Here is the Demo Video:
-https://github.com/user-attachments/assets/5949f0b1-c88b-482e-8618-4e515d101ed0
+
+[![Watch the video](https://github.com/user-attachments/assets/7645af8e-0cd3-4e86-909f-849ddd5c0f34)]
+(https://github.com/user-attachments/assets/7ef11173-ddeb-485d-857d-72f892878509)
 
