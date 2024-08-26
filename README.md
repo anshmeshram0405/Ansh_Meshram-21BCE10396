@@ -2,8 +2,10 @@
 
 Tactical Thrones is a turn-based, chess-like strategy game built using Express and Socket.io. The game features three unique types of pieces: Pawns, Hero 1, and Hero 2. Players take turns moving their pieces according to specific rules, with the goal of outmaneuvering their opponent and capturing all of their pieces.
 
-## Project Setup
 
+![ss - Tactical thrones](https://github.com/user-attachments/assets/4c8d0045-5590-4ae2-a9d6-b9f2f9ec166c)
+
+## Project Setup
 To get started with Tactical Thrones, follow the steps below:
 
 ### 1. Download the Zip file or clone the repo
