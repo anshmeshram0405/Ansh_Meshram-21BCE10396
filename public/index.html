@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tactical Thrones</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div>
+      <div class="board-status-div">
+        <h1 style="text-decoration: underline">Tactical Thrones</h1>
+
+        <div id="status"></div>
+        <div id="game-board"></div>
+        <div id="controls"></div>
+      </div>
+      <div id="moveHistoryContainer">
+        <div class="history-title">Move History</div>
+        <ul id="moveHistory"></ul>
+      </div>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
