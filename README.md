@@ -48,6 +48,4 @@ node app.js
 
 Here is the Demo Video:
 
-[![Watch the video](https://github.com/user-attachments/assets/7645af8e-0cd3-4e86-909f-849ddd5c0f34)]
-(https://github.com/user-attachments/assets/7ef11173-ddeb-485d-857d-72f892878509)
-
+[![Watch the video](https://github.com/user-attachments/assets/7645af8e-0cd3-4e86-909f-849ddd5c0f34)](https://github.com/user-attachments/assets/7ef11173-ddeb-485d-857d-72f892878509)
