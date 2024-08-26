@@ -83,6 +83,16 @@ function processMove(player, move) {
   let row, col;
 
   if (
+    (goti === "P1" || goti === "P2" || goti === "P3") &&
+    (direction === "FL" ||
+      direction === "FR" ||
+      direction === "BL" ||
+      direction === "BR")
+  ) {
+    return false;
+  }
+
+  if (
     goti === "H2" &&
     (direction === "F" ||
       direction === "B" ||
