@@ -45,3 +45,7 @@ node app.js
 - *Strategic Gameplay*: The game continues as long as both players have pieces on the board. The first player to capture all of their opponent's pieces wins. If a player runs out of pieces, the other player is declared the winner and the game ends.
 
 - *Move History*: A detailed move history section tracks all moves made by both players throughout the game, providing a complete log of the match.
+
+Here is the Demo Video:
+https://github.com/user-attachments/assets/5949f0b1-c88b-482e-8618-4e515d101ed0
+
